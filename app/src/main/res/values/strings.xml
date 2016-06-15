@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Baby Magic Shapes</string>
+    <string name="title_activity_ads">AdsActivity</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- text -->
+    <string name="colorName">Orange</string>
+    <string name="shapeName">Circle</string>
+
+    <!-- colors -->
+    <string name="grey">Grey</string>
+    <string name="white">White</string>
+    <string name="purple">Purple</string>
+    <string name="orange">Orange</string>
+    <string name="green">Green</string>
+    <string name="dark_green">Dark Green</string>
+    <string name="red">Red</string>
+    <string name="yellow">Yellow</string>
+    <string name="pink">Pink</string>
+    <string name="deep_sky_blue">Sky Blue</string>
+    <string name="blue">Blue</string>
+    <string name="black">Black</string>
+
+    <!-- shapes -->
+    <string name="triangle">Triangle</string>
+    <string name="square">Square</string>
+    <string name="rectangle">Rectangle</string>
+    <string name="circle">Circle</string>
+    <string name="ball">Ball</string>
+    <string name="cube">Cube</string>
+    <string name="heart">Heart</string>
+    <string name="moon">Moon</string>
+    <string name="diamond">Diamond</string>
+    <string name="star">Star</string>
+    <string name="oval">Oval</string>
+    <string name="ring">Ring</string>
+
+    <string name="interstitial_ad_sample">Interstitial Ad Sample</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-9099290844930751/7091928220</string>
+    <string name="updates"></string>
+	<string name="eula">End-user License Agreement
+		\n\n\t By downloading, installing or using this application or any portion thereof (“Application”), you agree to the following terms and conditions (the “Terms and Conditions”).
+
+\n\n 1. USE OF APPLICATION \n
+\n a. You have the non-exclusive, non-transferable, limited right and license to install and use this Application solely and exclusively for your personal use.
+\n b. You may not use the Application in any manner that could damage, disable, overburden, or impair the Application (or servers or networks connected to the Application), nor may you use the Application in any manner that could interfere with any other party’s use and enjoyment of the Application (or servers or networks connected to the Application).
+\n c. You agree that you are solely responsible for your use of the Application, any breach of your obligations under the Terms and Conditions, and for the consequences of any such breach.
+
+\n\n 2. DISCLAIMER OF WARRANTIES \n
+\n a. YOU EXPRESSLY UNDERSTAND AND AGREE THAT YOUR USE OF THE APPLICATION IS AT YOUR SOLE DISCRETION AND RISK AND THAT THE APPLICATION IS PROVIDED “AS IS” AND “AS AVAILABLE” WITHOUT WARRANTY OF ANY KIND.
+\n b. YOU ARE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR MOBILE DEVICE, OR OTHER DEVICE, OR LOSS OF DATA THAT RESULTS FROM SUCH USE.
+\n c. THE AUTHOR FURTHER EXPRESSLY DISCLAIMS ALL WARRANTIES AND CONDITIONS OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO THE IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT, WITH RESPECT TO THE APPLICATION.
+
+\n\n 3. LIMITATION OF LIABILITY \n
+\n TO THE EXTENT NOT PROHIBITED BY LAW, IN NO EVENT SHALL APPLICATION AUTHOR BE LIABLE FOR PERSONAL INJURY, OR ANY INCIDENTAL, SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES WHATSOEVER, INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF PROFITS, LOSS OF DATA, BUSINESS INTERRUPTION OR ANY OTHER COMMERCIAL DAMAGES OR LOSSES, ARISING OUT OF OR RELATED TO YOUR USE OR INABILITY TO USE THE LICENSED APPLICATION, HOWEVER CAUSED, REGARDLESS OF THE THEORY OF LIABILITY (CONTRACT, TORT OR OTHERWISE) AND EVEN IF APPLICATION AUTHOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. SOME JURISDICTIONS DO NOT ALLOW THE LIMITATION OF LIABILITY FOR PERSONAL INJURY, OR OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THIS LIMITATION MAY NOT APPLY TO YOU. In no event shall Application Author’s total liability to you for all damages (other than as may be required by applicable law in cases involving personal injury) exceed the amount of fifty dollars ($50.00). The foregoing limitations will apply even if the above stated remedy fails of its essential purpose.
+
+\n\n 4. PROPRIETARY RIGHTS \n
+\n You acknowledge that
+\n (a) the Application contains proprietary and confidential information that is protected by applicable intellectual property and other laws, and
+\n (b) The Company and/or third parties own all right, title and interest in and to the Application and content, excluding content provided by you, that may be presented or accessed through the Application, including without limitation all Intellectual Property Rights therein and thereto. “Intellectual Property Rights” means any and all rights existing from time to time under patent law, copyright law, trade secret law, trademark law, unfair competition law, and any and all other proprietary rights, and any and all applications, renewals, extensions and restorations thereof, now or hereafter in force and effect worldwide. You agree that you will not, and will not allow any third party to,
+\n\t\t (i) copy, sell, license, distribute, transfer, modify, adapt, translate, prepare derivative works from, decompile, reverse engineer, disassemble or otherwise attempt to derive source code from the Application or content that may be presented or accessed through the Application for any purpose, unless otherwise permitted,
+\n\t\t (ii) take any action to circumvent or defeat the security or content usage rules provided, deployed or enforced by any functionality (including without limitation digital rights management functionality) contained in the Application,
+\n\t\t (iii) use the Application to access, copy, transfer, transcode or retransmit content in violation of any law or third party rights, or
+\n\t\t (iv) remove, obscure, or alter The Company’s or any third party’s copyright notices, trademarks, or other proprietary rights notices affixed to or contained within or accessed in conjunction with or through the Application.
+    </string>
+</resources>
